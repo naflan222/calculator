@@ -14,7 +14,7 @@ app.get("/", (req, res) => {
         <meta property="fc:frame:button:2" content="5 - 1" />
         <meta property="fc:frame:button:3" content="4 × 2" />
         <meta property="fc:frame:button:4" content="8 ÷ 2" />
-        <meta property="fc:frame:post_url" content="https://your-vercel-url.vercel.app/calc" />
+        <meta property="fc:frame:post_url" content="https://calculator-psi-roan-26.vercel.app/" />
       </head>
       <body></body>
     </html>
