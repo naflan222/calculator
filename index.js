@@ -9,7 +9,7 @@ app.get("/", (req, res) => {
       <head>
         <meta property="og:title" content="Mini Calculator" />
         <meta property="fc:frame" content="vNext" />
-        <meta property="fc:frame:image" content="https://placehold.co/600x400?text=Choose+Operation" />
+        <meta property="fc:frame:image" content="https://placehold.co/600x400?text=Mini+Calculator" />
         <meta property="fc:frame:button:1" content="2 + 3" />
         <meta property="fc:frame:button:2" content="5 - 1" />
         <meta property="fc:frame:button:3" content="4 × 2" />
